@@ -8,7 +8,7 @@
 TEG各大部门内推二维码，直接扫描注册简历即可。
 <center class="half">
   <img width="330" height="750" src="https://github.com/giaoooooo/2021-Tencent-Zhaopin/blob/master/anping.jpg"/><img width="330" height="750" src="https://github.com/giaoooooo/2021-Tencent-Zhaopin/blob/master/ailab.jpg"/>
-</figure>
+</center>
 <div align=center> </div>
 <div align=center><img width="330" height="750" src="https://github.com/giaoooooo/2021-Tencent-Zhaopin/blob/master/jifei.jpg"/> </div>
 <div align=center><img width="330" height="750" src="https://github.com/giaoooooo/2021-Tencent-Zhaopin/blob/master/jijia.jpg"/> </div>
